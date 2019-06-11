@@ -5,3 +5,5 @@ var personaRoutes = require('./personas');
 router.use('/personas', personaRoutes);
 
 module.exports = router;
+//Estructura
+
